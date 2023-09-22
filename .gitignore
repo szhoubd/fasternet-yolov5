@@ -27,6 +27,9 @@ storage.googleapis.com
 runs/*
 data/*
 data/images/*
+DETRAC-train-data
+DETRAC-train-data.zip
+UA_DETRAC_Process
 !data/*.yaml
 !data/hyps
 !data/scripts

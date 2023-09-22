@@ -1,0 +1,9 @@
+path: D:/yolov5/data/DETRAC
+train: D:/yolov5/data/DETRAC/images/train
+val: D:/yolov5/data/DETRAC/images/val
+# test: 
+# number of classes
+nc: 4
+
+# class names
+names: ["car","van","bus","others"]
